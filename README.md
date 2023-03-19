@@ -1,1 +1,1 @@
-### In this Repository, there are all the tasks that i have completed during my internship at Oasis Infobyte.
+### In this Repository, there are all the tasks that have been completed during the internship period at Oasis Infobyte.
